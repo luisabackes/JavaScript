@@ -1,0 +1,17 @@
+# Dependências e arquivos locais
+node_modules/
+package.json
+package-lock.json
+npm-debug.log
+
+# Arquivos do sistema e temporários
+.DS_Store
+Thumbs.db
+.env
+
+# Arquivos do VS Code
+.vscode/
+
+# Pastas temporárias, build etc.
+dist/
+build/
